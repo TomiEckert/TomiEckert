@@ -5,7 +5,9 @@
 <details>
   <summary><i>𝚌𝚘𝚗𝚝𝚊𝚌𝚝</i></summary><br/>
   
-  [![mail](https://img.shields.io/badge/Send_me_a_mail-blue?logo=gmail&logoColor=white)](mailto:t.eckert@student.fontys.nl)
+  <a href="mailto:t.eckert@student.fontys.nl">mail</a>
+  
+  <a rel="me" href="https://koyu.space/@tomi">koyu.space</a>
 </details>
 
 <details>
