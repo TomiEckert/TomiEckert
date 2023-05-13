@@ -7,7 +7,7 @@
   
   <a href="mailto:t.eckert@student.fontys.nl">mail</a>
   
-  <a rel="me" href="https://koyu.space/@tomi">koyu.space</a>
+  <a rel="me" href="https://corteximplant.com/@tomi">mastodon</a>
 </details>
 
 <details>
